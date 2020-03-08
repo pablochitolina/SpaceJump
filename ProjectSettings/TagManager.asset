@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - redBaseSide
+  - greenBaseSide
+  - blueBaseSide
+  - edge
+  - btnBase
+  - back
+  - blueSonar
+  - redSonar
+  - greenSonar
+  - sonarDestroy
+  - btnAgain
+  - btnBack
+  - btnExit
+  - btnNext
+  - btnMenu
+  - btnGo
+  - tagDestroyBase
+  - baseActive
+  - baseFixa
+  - baseInner
+  - baseCopyTemp
+  - ampli
+  - movelDestroy
+  - redDestroy
+  - blueDestroy
+  - greenDestroy
+  - upLeft
+  - upRight
+  - downLeft
+  - downRight
+  - left
+  - right
+  - ok
+  - rot
+  - nextPage
+  - prevPage
+  - baseInit
+  - baseEnd
+  - geraPontos
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Grid
+  - BaseCopy
+  - Back
+  - AmpliCount
+  - BotoesControle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/const_menu.unity
+    guid: 2884eea9e9ff07c4192e382657340ee9
+  - enabled: 1
+    path: Assets/Scenes/Aquarius/aquarius.unity
+    guid: 947d196702d66b84a8d1a15cd26f28af
+  - enabled: 1
+    path: Assets/Scenes/Aquarius/aquarius_stg.unity
+    guid: 618e083a89a4a5e4eb4324527565d144
+  - enabled: 1
+    path: Assets/Scenes/Andromeda/andromeda.unity
+    guid: 64e43b65791e07f48aa0a936d611de45
+  - enabled: 1
+    path: Assets/Scenes/Andromeda/andromeda_stg.unity
+    guid: a67dacbc5a7d0e542bd80cf7b77d2bb9
+  - enabled: 1
+    path: Assets/Scenes/Cetus/cetus.unity
+    guid: 86c4cf9f44e5194469b25fc6e7a45b7e
+  - enabled: 1
+    path: Assets/Scenes/Cetus/cetus_stg.unity
+    guid: dc86896514e9eca458ee3e3654a25f68
+  - enabled: 1
+    path: Assets/Scenes/Draco/draco.unity
+    guid: 333b679688b5d834080c2486e6043faf
+  - enabled: 1
+    path: Assets/Scenes/Draco/draco_stg.unity
+    guid: 23a3f7becd7cc1e4bbe3dcdb1d061269
+  - enabled: 1
+    path: Assets/Scenes/Hercules/hercules.unity
+    guid: 9c556fff83c8f83449afdae30bb81f44
+  - enabled: 1
+    path: Assets/Scenes/Hercules/hercules_stg.unity
+    guid: c52b4a55e417d51429a2e7ef0824e579
+  - enabled: 1
+    path: Assets/Scenes/Hydra/hydra.unity
+    guid: 732059d6aa93c344ba3ea83c2d898e5a
+  - enabled: 1
+    path: Assets/Scenes/Hydra/hydra_stg.unity
+    guid: 6427b2f7ce1a4274184842adeb34b915
+  - enabled: 1
+    path: Assets/Scenes/Orion/orion.unity
+    guid: f82f18b1c606c014ab962f040ab8c9c4
+  - enabled: 1
+    path: Assets/Scenes/Orion/orion_stg.unity
+    guid: 98f3c33b74e364442962bc0d1b76798f
+  - enabled: 1
+    path: Assets/Scenes/Pegasus/pegasus.unity
+    guid: 38e4804e6e02f0340a5add6f5a79521c
+  - enabled: 1
+    path: Assets/Scenes/Pegasus/pegasus_stg.unity
+    guid: 7e0f5ed15d2ce774fa95f58b49c5e49d
+  - enabled: 1
+    path: Assets/Scenes/Virgo/virgo.unity
+    guid: 06e9ffd9eec14354da45112cb94750c5
+  - enabled: 1
+    path: Assets/Scenes/Virgo/virgo_stg.unity
+    guid: d8b2445108536c34292bdc5c400abdbe
+  m_configObjects: {}
